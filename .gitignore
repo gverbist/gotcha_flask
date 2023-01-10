@@ -130,3 +130,4 @@ dmypy.json
 pyvenv.cfg
 bin
 players.db
+start.sh

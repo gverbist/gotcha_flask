@@ -100,24 +100,6 @@ def add_assignments_to_db(assignments):
 
 
 
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #function that drops the table in the database
 def drop():
     players.drop(engine)
